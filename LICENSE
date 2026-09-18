@@ -1,0 +1,45 @@
+RadioMobile-Slovenia-Geodata — licensing overview
+Copyright (c) 2026 Žiga Kovač
+
+This repository uses separate licenses for software code and for documentation/content.
+
+1. SOFTWARE CODE
+
+Files containing program source code and scripts, including Python, PowerShell and CMD files,
+are licensed under the PolyForm Noncommercial License 1.0.0:
+
+https://polyformproject.org/licenses/noncommercial/1.0.0
+
+Required Notice: Copyright (c) 2026 Žiga Kovač
+Required Notice: Original author: Žiga Kovač, https://github.com/Kovojunior/RadioMobile-Slovenia-Geodata
+Required Notice: This software is licensed for noncommercial purposes under the PolyForm Noncommercial License 1.0.0. Modified and redistributed versions must retain these notices.
+
+See LICENSE-CODE for the repository-specific notice and scope.
+
+2. DOCUMENTATION, DIAGRAMS AND OTHER ORIGINAL CONTENT
+
+Unless a file states otherwise, original documentation, diagrams, explanatory text and other
+non-code creative material authored for this project are licensed under:
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Attribution:
+Žiga Kovač — https://github.com/Kovojunior/RadioMobile-Slovenia-Geodata
+
+Adaptations must indicate that changes were made and must be distributed under the same or a
+compatible ShareAlike license. Commercial use is not permitted without separate permission from
+the copyright holder.
+
+See LICENSE-CONTENT for the repository-specific notice and scope.
+
+3. EXTERNAL DATA AND THIRD-PARTY MATERIAL
+
+These licenses do not relicense or override any external data, software, maps, source datasets,
+Radio Mobile data, or other third-party material. Those materials remain subject to the terms of
+their respective providers and licenses. See README.md for source-specific attribution and usage
+conditions.
+
+Commercial licensing or other permissions may be available separately from the author.

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "RadioMobile-Slovenia-Geodata"
+type: software
+authors:
+  - family-names: "Kovač"
+    given-names: "Žiga"
+version: "1.0"
+date-released: 2026-09-18
+repository-code: "https://github.com/Kovojunior/RadioMobile-Slovenia-Geodata"
+url: "https://github.com/Kovojunior/RadioMobile-Slovenia-Geodata"
+license: "PolyForm-Noncommercial-1.0.0"
