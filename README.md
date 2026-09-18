@@ -21,6 +21,30 @@ Radio Mobile pri izračunu uporablja relief in podatke o pokrovnosti tal. Izvorn
 
 V1.0 zato združi več uradnih virov za LCV in neposredno uporablja GURS DMR1 za višinski BIL. Cilj ni kartografska obdelava zaradi same kartografije, temveč **čim bolj uporabna predstavitev terena in ovir zaradi pokrovnosti tal v radijskem propagacijskem modelu**.
 
+## Vizualni primeri
+
+Spodnji posnetki prikazujejo končni LCV V1.0 v QGIS nad podložnim zemljevidom OpenStreetMap. Barve predstavljajo razrede pokrovnosti tal 00–14; podložni zemljevid je prikazan samo za prostorski kontekst in ni del izdelanega LCV.
+
+### Slovenija in širša okolica
+
+![Pregled LCV V1.0 za Slovenijo in širšo okolico](docs/slovenija_lcv.png)
+
+Nacionalni pregled pokaže razporeditev gozdnih, kmetijskih, urbanih in vodnih razredov ter ohranitev pokritosti čez državno mejo z izvornim nadomestnim Radio Mobile LCV.
+
+### Ljubljana
+
+![LCV V1.0 na območju Ljubljane](docs/ljubljana_lcv.png)
+
+Podrobnejši pogled na Ljubljano prikazuje predvsem ponovno izračunana urbana razreda 13 in 14 ter prehode v gozdne, travniške, kmetijske in vodne površine.
+
+### Alpski prostor
+
+![LCV V1.0 v alpskem prostoru](docs/alpe_lcv.png)
+
+V goratem svetu so posebej vidni strukturni gozdni razredi, odprte visokogorske površine, voda in prehodi med različnimi tipi pokrovnosti tal.
+
+*Podložni zemljevid: © OpenStreetMap contributors. Posnetki zaslona so namenjeni predstavitvi rezultatov projekta.*
+
 ## Glavne lastnosti V1.0
 
 - končna ločljivost: **1 ločna sekunda**;
